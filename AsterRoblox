@@ -1,4 +1,5 @@
 [License]
+zjshop=Activated
 Marky.Bean2025=Activated
 DdgeFrinx2025=Activated
 gatzkiee2025=Activated
@@ -6,6 +7,10 @@ agaxent121986=Activated
 jigspixel.072525=Activated
 joel.bawalan.08125=Activated
 Kim.Montecastro25=Activated
+
+[zjshop]
+START=November.22.2025
+END=November.22.2026
 
 [Marky.Bean2025]
 START=September.25.2025
